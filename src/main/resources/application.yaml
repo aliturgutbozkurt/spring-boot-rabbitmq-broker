@@ -1,0 +1,7 @@
+turkninja:
+  rabbitmq:
+    api:
+      host: localhost
+      port: 5672
+      userName: guest
+      password: guest
